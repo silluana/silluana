@@ -5,7 +5,7 @@
 
 - 👯 Quero colaborar com **projetos backend com Java e Spring Boot, onde eu possa contribuir com minhas habilidades e aprender ainda mais.**
 
-- 🤝 Busco ajuda com **minha recolocação no mercado de trabalho após uma pausa na carreira, focando em oportunidades na área de desenvolvimento backend com Java e Spring Boot.**
+- 🤝 Busco ajuda com **minha recolocação no mercado de trabalho, após uma pausa na carreira, focando em oportunidades na área de desenvolvimento backend com Java e Spring Boot.**
 
 - ⚡ Curiosidade divertida: **sou praticante de CrossFit e instrutora de meditação. Amo estar em meio à natureza e aproveitar momentos ao ar livre para recarregar as energias e manter o equilíbrio entre corpo e mente.**
 
