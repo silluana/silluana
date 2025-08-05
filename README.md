@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Sou Siluana Oggioni</h1>
-<h3 align="center">Uma desenvolvedora Backend apaixonado por Java</h3>
+<h3 align="center">Uma desenvolvedora Backend apaixonada por Java</h3>
 
 - 🌱 Atualmente, estou aprendendo **mais sobre AWS, Apache Kafka e RabbitMQ, com o objetivo de fortalecer minhas habilidades em sistemas distribuídos e arquiteturas escaláveis.**
 
